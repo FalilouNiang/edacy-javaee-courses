@@ -1,5 +1,5 @@
 # edacy-javaee-courses
-hhhhhggggfff
+hhhhhggg
 This repo contains sources for JEE training given at Edacy Makersday
 
 
